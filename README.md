@@ -4,8 +4,11 @@ how vibration worked as a feedback from the "key"(in this case an andriod) when 
 It works so that one person (the car) opens it up on the computer and the other (the key) opens it up on their andriod. Ask the phone user to walk away. After a distance press the lock button on your computer, the phone then starts to vibrate, indicating that the "car" got locked. The phone user can then check if it did get locked by pressing the "check locked" button on the phone which then starts to vibrate in sequens, comfirimg that the car got locked.
 
 Setup:
+
 1: open up your command prompt, go to this directory folder and run: npm istall
+
 2: run npm start, this starts the server at your localhost:4040,
+
 3: Open it up and your computer and on your andriod and you can start wizard of ozing it.
 
 
